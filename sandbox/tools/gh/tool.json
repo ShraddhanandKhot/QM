@@ -1,0 +1,16 @@
+{
+  "id": "gh",
+  "advertise": "gh",
+  "label": "GitHub CLI",
+  "hints": [
+    "GitHub CLI for repos, issues, PRs, releases, workflows",
+    "Auth via GH_TOKEN / GITHUB_TOKEN env or `gh auth login`"
+  ],
+  "egress": [
+    "github.com",
+    "api.github.com",
+    "objects.githubusercontent.com",
+    "codeload.github.com",
+    "uploads.github.com"
+  ]
+}

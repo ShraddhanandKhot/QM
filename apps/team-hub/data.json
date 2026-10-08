@@ -1,0 +1,6 @@
+{
+  "members": [
+    { "id": "m1", "name": "Alice", "role": "Backend", "status": "Working", "updatedAt": "2026-10-01" },
+    { "id": "m2", "name": "Bob", "role": "Frontend", "status": "Available", "updatedAt": "2026-10-01" }
+  ]
+}

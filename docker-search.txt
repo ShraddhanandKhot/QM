@@ -1,0 +1,2 @@
+node_modules\@yc-software\qm\dist\src\backends\docker.js:87:        die("docker not found on PATH (the docker target needs a running Docker daemon).");
+node_modules\@yc-software\qm\dist\src\commands\sandbox.js:255:            die("docker not found — install Docker with Buildx.");
